@@ -68,30 +68,32 @@
         
             ]
         },
-        // {
-        //     "id": 3,
-        //     "name": "Speak Now",
-        //     "web":"https://en.wikipedia.org/wiki/Speak_Now",
-        //     "description": "romantic themes of love, heartbreak, and forgiveness but transcend the fairytale-inspired theme of its predecessor",
-        //     "songs": [
-        //         {
-        //             "1":"Mine",
-        //             "2":"Sparks Fly",
-        //             "3":"Back to December",
-        //             "4":"Speak Now",
-        //             "5":"Dear John",
-        //             "6":"Mean",
-        //             "7":"The Story of Us",
-        //             "8":"Never Grow Up",
-        //             "9":"Enchanted",
-        //             "10":"Better than Revenge",
-        //             "11":"Innocent",
-        //             "12":"Haunted",
-        //             "13":"Last Kiss",
-        //             "14":"Long Live"
-        //         }
+        {
+            "id": 4,
+            "name": "Red",
+            "web":"https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)",
+            "description": "red refers to the tumultuous 'red' emotions that were envoked from the unhealthy romance experienced during this albums conception ",
+            "songs": [
+                {
+                    "1":"State of Grace",
+                    "2":"Red",
+                    "3":"Treacherous",
+                    "4":"I Knew You Were Trouble",
+                    "5":"All Too Well",
+                    "6":"22",
+                    "7":"I Almost Do",
+                    "8":"We Are Never Ever Getting Back Together",
+                    "9":"Stay Stay Stay",
+                    "10":"The Last Time (featuring Gary Lightbody of Snow Patrol)",
+                    "11":"Holy Ground",
+                    "12":"Sad Beautiful Tragic",
+                    "13":"The Lucky One",
+                    "14":"Everything Has Changed (featuring Ed Sheeran)",
+                    "15":"Starlight",
+                    "16":"Begin Again"
+                }
         
-        //     ]
-        // }
+            ]
+        }
     ]  
 }
