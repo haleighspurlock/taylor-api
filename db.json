@@ -72,7 +72,7 @@
             "id": 4,
             "name": "Red",
             "web":"https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)",
-            "description": "red refers to the tumultuous 'red' emotions that were envoked from the unhealthy romance experienced during this albums conception ",
+            "description": "red refers to the tumultuous 'red' emotions that were envoked from the unhealthy romance experienced during this albums conception",
             "songs": [
                 {
                     "1":"State of Grace",
@@ -88,6 +88,33 @@
                     "11":"Holy Ground",
                     "12":"Sad Beautiful Tragic",
                     "13":"The Lucky One",
+                    "14":"Everything Has Changed (featuring Ed Sheeran)",
+                    "15":"Starlight",
+                    "16":"Begin Again"
+                }
+        
+            ]
+        },
+        {
+            "id": 5,
+            "name": "1989",
+            "web":"https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)",
+            "description": "named after her birth year as a symbolic rebirth of her artistry ",
+            "songs": [
+                {
+                    "1":"Welcome To New York",
+                    "2":"Blank Space",
+                    "3":"Style",
+                    "4":"Out of the Woods",
+                    "5":"All You Had To Do Was Stay",
+                    "6":"Shake It Off",
+                    "7":"I Wish You Would",
+                    "8":"Bad Blood",
+                    "9":"Wildest Dreams",
+                    "10":"How You Get the Girl",
+                    "11":"This Love",
+                    "12":"I Know Places",
+                    "13":"Clean",
                     "14":"Everything Has Changed (featuring Ed Sheeran)",
                     "15":"Starlight",
                     "16":"Begin Again"
