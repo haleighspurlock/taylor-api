@@ -114,10 +114,33 @@
                     "10":"How You Get the Girl",
                     "11":"This Love",
                     "12":"I Know Places",
-                    "13":"Clean",
-                    "14":"Everything Has Changed (featuring Ed Sheeran)",
-                    "15":"Starlight",
-                    "16":"Begin Again"
+                    "13":"Clean"
+                }
+        
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Reputation",
+            "web":"https://en.wikipedia.org/wiki/Reputation_(Taylor_Swift_album)",
+            "description": "two major themes: one drawing from the excessive media gossip, and the other about finding love amidst tumultuous events",
+            "songs": [
+                {
+                    "1":"...Ready for it?",
+                    "2":"end Game (featuring Ed Sheeran and Future)",
+                    "3":"I Did Something Bad",
+                    "4":"Don't Blame Me",
+                    "5":"Delicate",
+                    "6":"Look What You Made Me Do",
+                    "7":"So It Goes...",
+                    "8":"Gorgeous",
+                    "9":"Getaway Car",
+                    "10":"King of My Heart",
+                    "11":"Dancing with Our Hands Tied",
+                    "12":"Dress",
+                    "13":"This Is Why We Can't Have Nice Things",
+                    "14":"Call It What You Want",
+                    "15":"New Year's Day"
                 }
         
             ]
